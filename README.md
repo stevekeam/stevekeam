@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevekeam
+- 👋 Hi, I’m @stephen kimani
 - 👀 I’m interested in {programing}
 - 🌱 I’m currently learning bachelor of science (computer science)
 - 💞️ I’m looking to collaborate on {coding}
