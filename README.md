@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django, React
+- **Frameworks:** Django,flask, React
 - **Web:** HTML, CSS, WordPress
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, GitHub, VS Code
